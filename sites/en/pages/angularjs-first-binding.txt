@@ -25,7 +25,7 @@ in which we declare the <hl>ng-model</hl> with a value <hl>name</hl>.
 <input ng-model="name">
 </code>
 
-Once we do that we can use the <hl>name</hl> attribute in Angular expressions: <hl>{{ name }}</hl>
+Once we do that we can use the <hl>name</hl> attribute in Angular expressions: <hl><pre>{{ name }}</pre></hl>
 for example in order to show the content:
 
 <try file="examples/angular/minimal_hello_user.html">
