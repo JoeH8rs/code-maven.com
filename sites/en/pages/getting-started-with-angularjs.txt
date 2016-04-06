@@ -49,7 +49,7 @@ a <hl>div</hl> as it has been done in our first example.
 <h2>3) Add an AngularJS expression.</h2>
 
 AngularJS has various elements. An <b>expression</b> is a code snipped wrapped
-in <hl>{{ }}</hl>. It can contain a limited set of JavaScript expressions.
+in <hl>&#123;&#123; &#125;&#125;</hl>. It can contain a limited set of JavaScript expressions.
 
 That brings us to our first example. Even before writing a Hello
 
